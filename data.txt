@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is commit by sw2
+=======
+this is text document.
+2nd commit 
+>>>>>>> ab4fdc75a06d56547ddfaaf15c8fc9dfd436d692
